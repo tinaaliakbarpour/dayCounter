@@ -1,6 +1,6 @@
 # DayCounter
 
-this is a simple program to count days between to days
+this is a simple program to count days between two days
 just run :
 
 go run main.go
